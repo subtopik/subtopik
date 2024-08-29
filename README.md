@@ -4,4 +4,4 @@ SubTopik (/ˈsʌbˌtɒpɪk/) is an e-learning platform and content management sy
 
 ## License
 
-MIT
+[MIT](./LICENSE)
