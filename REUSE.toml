@@ -1,6 +1,6 @@
 version = 1
 
 [[annotations]]
-path = "*"
-SPDX-FileCopyrightText = "2024 Jane Doe <jane@example.com>"
+path = "**"
+SPDX-FileCopyrightText = "2024 The SubTopik Authors"
 SPDX-License-Identifier = "MIT"
